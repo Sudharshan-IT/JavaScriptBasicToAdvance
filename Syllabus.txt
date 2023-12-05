@@ -1,0 +1,82 @@
+Basic JavaScript Introducion:
+************************************************
+What Is JavaScript?
+Evolution Of JavaScript?
+Features Of JavaScript?
+Advantage and Disadvantage Of JavaScript?
+How Does JavaScript Works?
+How To Add JavaScript In HTML?
+How To Include External JavaScript In HTML?
+How To Write JavaScript Code In Visula Studio Code?
+
+JavaScript Data Types and Variables
+***************************************************
+JavaScript Comments?
+JavaScript Keywords?
+Data Types In JavaScript?
+JavaScript Variables?
+Types Fo Variables In JavaScript?
+Key Difference Between Var ,Let and Const 
+
+JavaScript Operators
+****************************************************
+What are Operators In JavaScript?
+Assingnment Operator?
+Comparison Operator?
+Logical Operators?
+Conditional Operators?
+Unary Operators?
+TypeOf Operator?
+
+JavaScript Statement
+******************************************************
+Conditional Statement
+  If Statement
+  If Else Statement
+  Switch Statement
+Loop Statement
+  While Loop
+  Do While Loop
+  Nested For Loops
+  For Loop
+  For In Loop
+  For Of Loop
+  Break Statement
+  Continue Statement
+JavaScript Function
+***********************************************
+  What is a Function In JavaScript?
+  How To Call A Function In JavaScript Using Arguments?
+  Pass By Value In JavaScript?
+  Function Return (or Return Statement)
+  Nested Functions
+  Rest Parameter
+  Anonymous Functions
+  Recurssion
+  Arrow Function
+
+Objects In JavaScript
+*************************************************************
+  What Is An Object?
+  Types Of Objects?
+  Array Object?
+    .Properties Of Array Object
+    .Metods Of Array Object
+  String Object
+    .Properties Of String Object
+    .Methods Of String Object
+  Math Object
+    .Properties Of Math Object
+    .Methods Of Math Object
+  Date Object
+    .Methods Of Date Object
+  Global Object
+    .Properties Of Global Object
+    .Methods Of Global Object
+  Number Object
+    .Properties Of Number Object 
+    .Methods Of Number Objects
+  Creatin Your Own Objects
+    .Definin Methods
+
+
