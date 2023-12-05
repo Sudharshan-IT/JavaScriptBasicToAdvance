@@ -76,7 +76,7 @@ Objects In JavaScript
   Number Object
     .Properties Of Number Object 
     .Methods Of Number Objects
-  Creatin Your Own Objects
-    .Definin Methods
+  Creating Your Own Objects
+    .Defining Methods
 
 
